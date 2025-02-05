@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mobies</string>
+    <string name="error_loading">Error occoured while loading</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading, please wait</string>
+    <string name="favorite_screen">Favorites</string>
+    <string name="search_screen">Search</string>
+    <string name="home_screen">Home</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="search_movies">Search Movies...</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="no_favorites_available">No favorites available</string>
+    <string name="close">close</string>
+</resources>
